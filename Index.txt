@@ -1,0 +1,18 @@
+﻿
+Hand
+	10-30 variables
+	30-180 constructor
+	180 250 functions
+	250 300 operators
+Game
+	10-60 variables
+	60-70 constructor
+	70-90 shuffle
+	90-140 init
+	140-170 short functions
+	170-200 fold
+	200-250 next
+	250-350 call/check
+	350-500 getchance
+	500-600 Finish
+	600-Decision
